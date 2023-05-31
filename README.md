@@ -7,16 +7,16 @@
 </div>
 -->
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/siddigo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddigo&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/siddigo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddigo&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/siddigo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddigo&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/siddigo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
