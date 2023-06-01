@@ -20,13 +20,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/siddigo">
-    <img src="https://komarev.com/ghpvc/?username=siddigo&color=blue&style=flat)" />
-  </a>
-</p>
-
 <!--
 **siddigo/siddigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
