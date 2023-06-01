@@ -11,27 +11,28 @@
   <a href="https://github.com/siddigo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddigo&theme=discord_old_blurple" />
   </a>
-   
-  <!-- Linguagens mais usadas -->  
-  <a href="https://github.com/siddigo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&hide_border=true&card_width=699&theme=discord_old_blurple" />
-  </a>
-    
+  
   <!-- Sequencia de comitts-->
   <a href="https://github.com/siddigo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddigo&hide_border=true&card_width=699&theme=discord_old_blurple" />
   </a>
-  
-  <!-- Estatísticas do perfil -->
+  <details align="center">
+  <!-- Linguagens mais usadas -->  
+    <a href="https://github.com/siddigo">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&hide_border=true&card_width=699&theme=discord_old_blurple" />
+    </a>
+  </details>
+
+  <!-- Estatísticas do perfil
   <a href="https://github.com/siddigo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddigo&theme=discord_old_blurple" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddig&card_width=699o&theme=discord_old_blurple" />
   </a>
-   
-  <!-- Linguagens mais usadas Pizza -->  
+   -->
+  <!-- Linguagens mais usadas Pizza  
   <a href="https://github.com/siddigo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddigo&theme=discord_old_blurple" />
   </a>
-
+  --> 
 </p>
 <!--
 **siddigo/siddigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
