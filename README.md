@@ -14,7 +14,7 @@
    
   <!-- Linguagens mais usadas -->  
   <a href="https://github.com/siddigo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&card_width=699&theme=discord_old_blurple" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&hide_border=true&card_width=699&theme=discord_old_blurple" />
   </a>
     
   <!-- Sequencia de comitts-->
