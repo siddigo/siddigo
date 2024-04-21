@@ -1,50 +1,25 @@
-<!--
-<div align="center">
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddigo&theme=onedark" width="380" height="150" alt="siddigo" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&layout=compact&theme=onedark" width="380" height="150" alt="siddigo" />
-
-</div>
--->
 <p align="center">
-  <!-- Grafico de contribuições-->
   <a href="https://github.com/siddigo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddigo&theme=discord_old_blurple" />
   </a>
-  
-  <!-- Sequencia de comitts-->
   <a href="https://github.com/siddigo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddigo&hide_border=true&card_width=699&theme=discord_old_blurple" />
   </a>
   <details align="center">
-  <!-- Linguagens mais usadas -->  
     <a href="https://github.com/siddigo">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&hide_border=true&card_width=699&theme=discord_old_blurple" />
     </a>
   </details>
 
-  <!-- Estatísticas do perfil
-  <a href="https://github.com/siddigo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddig&card_width=699o&theme=discord_old_blurple" />
-  </a>
-   -->
-  <!-- Linguagens mais usadas Pizza  
-  <a href="https://github.com/siddigo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddigo&theme=discord_old_blurple" />
-  </a>
-  --> 
 </p>
-<!--
-**siddigo/siddigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sidnei-rodrigo-dos-santos-aa5835161">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://discord.com/channels/@siddigo/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/sidnei.rds/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
