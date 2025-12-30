@@ -1,6 +1,6 @@
 
 
-# Sidnei Rodrigo dos Santos
+<h1> Sidnei Rodrigo dos Santos</h1>
 
 Desenvolvedor com foco em **Game Development**, **Modding** e **sistemas experimentais**.  
 Este GitHub é organizado como um **hub**, separando claramente projetos de aprendizado, autoria própria e mods de jogos.
@@ -22,45 +22,6 @@ Este GitHub é organizado como um **hub**, separando claramente projetos de apre
 -->
 ---
 
-## 📂 Guia de Navegação
-
-Os repositórios estão organizados em três grandes áreas:
-
----
-
-### 🎓 Learning
-Projetos de **aprendizado guiado**, como cursos, bootcamps e formações técnicas.
-
-- Plataformas: DIO, SENAI, Danki
-- Cada projeto possui repositório próprio
-- Organização feita via **Git Submodules**
-
-👉 https://github.com/siddigo/learning
-
----
-
-### 🎮 Game Dev
-Projetos **autorais e experimentais** relacionados a desenvolvimento de jogos.
-
-- Protótipos e provas de conceito  
-- Simulações e sistemas  
-- Geradores e mecânicas experimentais  
-
-👉 https://github.com/siddigo/game-dev
-
----
-
-### 🧩 Game Mods
-Mods desenvolvidos para jogos, organizados por jogo e propósito.
-
-- Mods para Project Zomboid  
-- Traduções, armas, sistemas e extensões  
-- Cada mod versionado individualmente  
-
-👉 https://github.com/siddigo/game-mods
-
----
-
 ## ⭐ Projetos em Destaque
 
 - 🧠 <a href="https://github.com/siddigo/ecossistema">**Ecosystem Simulation**</a> — Simulação de ecossistema vivo em JavaScript  
@@ -69,20 +30,59 @@ Mods desenvolvidos para jogos, organizados por jogo e propósito.
 
 ---
 
+<details>
+<summary><h2>
+📂 Guia de Navegação
+</h2></summary>
+Os repositórios estão organizados em três grandes áreas:
+
+---
+
+<details>
+<summary><h3>🎓 Learning</h3></summary>
+Projetos de <b>aprendizado guiado</b>, como cursos, bootcamps e formações técnicas.
+
+- Plataformas: DIO, SENAI, Danki
+- Cada projeto possui repositório próprio
+- Organização feita via **Git Submodules**
+
+👉 https://github.com/siddigo/learning
+
+---
+</details>
+
+<details>
+<summary><h3>🎮 Game Dev</h3></summary>
+Projetos <b>autorais e experimentais</b> relacionados a desenvolvimento de jogos.
+
+- Protótipos e provas de conceito  
+- Simulações e sistemas  
+- Geradores e mecânicas experimentais  
+
+👉 https://github.com/siddigo/game-dev
+
+---
+</details>
+
+<details>
+<summary><h3>🧩 Game Mods</h3></summary>
+Mods desenvolvidos para jogos, organizados por jogo e propósito.
+
+- Mods para Project Zomboid  
+- Traduções, armas, sistemas e extensões  
+- Cada mod versionado individualmente  
+
+👉 https://github.com/siddigo/game-mods
+
+</details>
+---
+</details>
+
 ## 🛠️ Tecnologias e Interesses
 
 - JavaScript / Lua / Java  
 - Game Development  
-- Modding  
-- Procedural Generation  
-- Simulações e sistemas emergentes  
-
----
-
-## ℹ️ Observação Importante
-
-Muitos repositórios utilizam **Git Submodules**.  
-Isso significa que cada projeto possui **histórico, commits e versionamento próprios**, mesmo estando organizados dentro de um repositório maior.
+- Modding 
 
 ---
 
