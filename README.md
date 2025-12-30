@@ -2,7 +2,7 @@
   <a href="https://github.com/siddigo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddigo&theme=discord_old_blurple" />
   </a>
-  <a href="https://github.com/siddigo">
+  <!--<a href="https://github.com/siddigo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddigo&hide_border=true&card_width=699&theme=discord_old_blurple" />
   </a>
   <details align="center">
@@ -10,6 +10,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddigo&hide_border=true&card_width=699&theme=discord_old_blurple" />
     </a>
   </details>
+  -->
 
 </p>
 <p align="center">
