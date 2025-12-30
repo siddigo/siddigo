@@ -64,7 +64,7 @@ Mods desenvolvidos para jogos, organizados por jogo e propósito.
 ## ⭐ Projetos em Destaque
 
 - 🧠 <a href="https://github.com/siddigo/ecossistema">**Ecosystem Simulation**</a> — Simulação de ecossistema vivo em JavaScript  
-- ⚔️ <a href="https://github.com/siddigo/SiddigoWeapons">**Project Zomboid Mods**</a> — Mods de arma personalizada, incluindo modelo 3d
+- ⚔️ <a href="https://github.com/siddigo/SiddigoWeapons">**Project Zomboid Weapons**</a> — Mods de arma personalizada, incluindo modelo 3d
 - 🗺️ <a href="https://github.com/siddigo/gerenciamento_tarefas">**Gerenciamento de Tarefas**</a> — Sistema utilizando Python (Django) para ferramenta web de gerenciamento de tarefas estilo kanban.
 
 ---
